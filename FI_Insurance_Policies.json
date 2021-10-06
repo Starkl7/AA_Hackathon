@@ -1,0 +1,146 @@
+
+{
+  "type" : "insurance_policies",
+  "masked_account_number": "XXXXXXX123",
+  "link_ref_number": "123456789",
+  "profile": {
+    "holders": {
+      "holder": [
+        {
+          "ckycCompliance": "true",
+          "dob": "24-07-1980",
+          "email": "manisha.34@gmail.com",
+          "mobile": "91729391923",
+          "name": "Manisha Vijayakumar",
+          "nominee": "REGISTERED",
+          "pan": "BYHPL1234T",
+          "rank": "1"
+        }
+      ],
+      "type": "JOINT"
+    },
+    "riders": {
+      "rider": [
+        {
+          "policyEndDate": "12-03-2033",
+          "policyStartDate": "12-03-2021",
+          "premiumAmount": "1600000",
+          "riderType": "Waiver of premium",
+          "sumAssured": "1500000",
+          "tenureMonths": "144",
+          "tenureYears": "12"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "contractClauses": {
+      "contractClause": [
+        {
+          "amount": "75000",
+          "conditions": "",
+          "description": "",
+          "exlcusions": "",
+          "subLimit": "",
+          "title": "Children Plan"
+        }
+      ]
+    },
+    "coverAmount": "1300000",
+    "coverType": "BUILDING",
+    "covers": {
+      "cover": [
+        {
+          "amount": "120000",
+          "description": ""
+        }
+      ]
+    },
+    "eiaNumber": "TY67HG5THL",
+    "maturityBenefit": "",
+    "maturityDate": "2004-04-12",
+    "moneyBacks": {
+      "moneyBack": [
+        {
+          "amount": "1000",
+          "date": "12-03-28",
+          "description": ""
+        }
+      ]
+    },
+    "policyName": "APNA Life Insurance",
+    "policyNumber": "APNI789008",
+    "policyStartDate": "12-03-2021",
+    "policyType": "CHILDREN_PLAN",
+    "premiumAmount": "1600000",
+    "premiumFrequency": "HALF_YEARLY",
+    "premiumPaymentMonths": "24",
+    "premiumPaymentYears": "2",
+    "sumAssured": "1500000",
+    "tenureMonths": "144",
+    "tenureYears": "12"
+  },
+  "transactions": {
+    "endDate": "",
+    "startDate": "",
+    "transaction": [
+      {
+        "amount": "5000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2022-15-09T18:31:59+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS"
+      },
+      {
+        "amount": "4000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2021-05-09T08:37:36+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS1"
+      },
+      {
+        "amount": "7000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2021-01-20T18:33:56+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS"
+      },
+      {
+        "amount": "8000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2021-11-19T19:33:56+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS1"
+      },
+      {
+        "amount": "8000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2020-05-09T08:13:56+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS1"
+      },
+      {
+        "amount": "8000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2019-04-01T18:33:56+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS"
+      },
+      {
+        "amount": "10000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2020-03-09T18:33:56+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS2"
+      },
+      {
+        "amount": "12000",
+        "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+        "txnDate": "2022-09-29T18:33:56+05:30",
+        "txnId": "M69761383",
+        "type": "BONUS"
+      }
+    ]
+  }
+}
+        
